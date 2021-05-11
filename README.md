@@ -30,9 +30,13 @@ Sample Output : 1
 Enter an integer: 3
 Output:
 ***
+
 **
+
 *
+
 **
+
 ***
 2. Write a program Q2.c that takes a positive odd number from the user and prints the corresponding pattern as given below:
 
@@ -40,7 +44,9 @@ Sample Output : 1
 Enter an integer: 3
 Output:
 *-*
+
  *
+ 
 *-*
 
 3. Write a program Q3.c that does the following steps:
