@@ -42,6 +42,7 @@ Output:
 *-*
  *
 *-*
+
 3. Write a program Q3.c that does the following steps:
 Initially prompt the user to enter the balance amount.
 Ask the user to enter one of the following options:
