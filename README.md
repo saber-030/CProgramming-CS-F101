@@ -13,12 +13,7 @@ Martin said, “I’m going over to Jennifer’s house for a few hours.”
 # LAB 2
 1. Write a C program to read  your date of birth in the given format dd:mm:yyyy only,  where dd is the date, mm is the month, and yyyy the year and store in the integer variables dob, birth_month and birth_year and print the variable values.
 2. Write a C program to read only consonants. If the user enters a vowel, it should not be stored in the variable. Print the value of this character variable. 
-3. Write a C program, which prompts the user to take a 4 digit integer (first digit to be non-zero) as input and displays the number as follows :
-
-First Line      : 	All digits
-Second line : 	All digits except first digit
-Third line     : 	All digits except first two digits
-Fourth line  : 	The Last digit
+3. Write a C program, which prompts the user to take a 4 digit integer (first digit to be non-zero) as input and displays the number as follows : First Line      : 	All digits Second line : 	All digits except first digit Third line     : 	All digits except first two digits Fourth line  : 	The Last digit
 4. Write a C program (Q4.c) to display the temperature in Fahrenheit and Celcius using the following equation: Temp_Celcius = (5.0/9.0)*(Temp_Fahrenheit-32). Read precision value from the user. Display the output in the given format only.
 
 
